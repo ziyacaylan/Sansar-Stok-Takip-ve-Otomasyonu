@@ -1,0 +1,507 @@
+D:\C Sharp\SANSAR2013\SANSAR2013\bin\Debug\SANSAR2013.exe
+D:\C Sharp\SANSAR2013\SANSAR2013\bin\Debug\SANSAR2013.pdb
+D:\C Sharp\SANSAR2013\SANSAR2013\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C Sharp\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.AnaForm.resources
+D:\C Sharp\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.Form1.resources
+D:\C Sharp\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.Properties.Resources.resources
+D:\C Sharp\SANSAR2013\SANSAR2013\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\C Sharp\SANSAR2013\SANSAR2013\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\C Sharp\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.exe.licenses
+D:\C Sharp\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.exe
+D:\C Sharp\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.pdb
+D:\C Sharp\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.frmMasaUstu.resources
+D:\C Sharp\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmStokKarti.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.exe
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.pdb
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\bin\Debug\SANSAR2013.exe
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\bin\Debug\SANSAR2013.pdb
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.AnaForm.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.frmMasaUstu.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.Properties.Resources.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmStokKarti.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.exe.licenses
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmStokListesi.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.MusterıModulu.frmMusteriKarti.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.frmYeniSiparis.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.frmSiparisListesi.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.MusterıModulu.frmMusteriListesi.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.frmKonsinye_Siparis_Listesi.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.frmGiris.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\bin\Debug\SANSAR2013.exe.config
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.frmServerAyarlari.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SatisModulu.frmSatisListesi.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmUrunGrubu.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmStokBirimi.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmIskontoGrubu.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmStokTuru.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmParaBirimleri.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmEtiketRengi.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.MusterıModulu.frmBayiilik_Turu.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.MusterıModulu.frmMusteriKodListesi.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.frmFaturaNo.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.frmFisNo.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.EktralarModulu.frmDovizKurları.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.EktralarModulu.frmKargolar.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmStokKodListesi.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.StokGirisModulu.frmStokGirisi.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.StokGirisModulu.frmStokGirisListesi.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SatisModulu.SatisIadeModulu.frmSatisIade.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SatisModulu.SatisIadeModulu.frmSatisIadeListesi.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.TS_OlayModulu.frmOlayFormu.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.ServisGirisi.frmServisGirisi.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.frmServisBeklemeListesi.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\bin\Debug\SANSAR2013.exe.manifest
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\bin\Debug\SANSAR2013.application
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TrustInfo.xml
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.exe.manifest
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.application
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.Classlar.Dizaynlar.rapSIPARIS.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.Classlar.Dizaynlar.rapSIPARIS_muh.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.StokGirisModulu.Dizayn.rapYAZ_StokGiris.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SatisModulu.SatisIadeModulu.Dizaynlar.rapSatisIADESI.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.DefolularStokgu.frmDefoluGiris.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.DefolularStokgu.frmDefolularListesi.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.DefolularStokgu.Dizaynlar.rapYAZDIR.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.frmIrsaliyeNO.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.ServisGirisi.Dizayn.rapYAZDIR.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.EktralarModulu.frmAksesuarlar.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.EktralarModulu.frmArizaKodlari.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.ServisCikis.frmServisCikisListesi.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.TS_OlayModulu.Dizaynlar.rapCikisYazdir_.resources
+G:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.Raporlar.frmMusteriUrunSatisHareketi.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\bin\Debug\SANSAR2013.exe.config
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.exe
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.pdb
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.AnaForm.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.EktralarModulu.frmAksesuarlar.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.EktralarModulu.frmArizaKodlari.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.EktralarModulu.frmDovizKurları.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.EktralarModulu.frmKargolar.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.frmGiris.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.frmMasaUstu.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.frmServerAyarlari.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.MusterıModulu.frmBayiilik_Turu.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.MusterıModulu.frmMusteriKarti.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.MusterıModulu.frmMusteriKodListesi.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.MusterıModulu.frmMusteriListesi.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.Properties.Resources.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.Raporlar.frmMusteriUrunSatisHareketi.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SatisModulu.frmSatisListesi.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SatisModulu.SatisIadeModulu.Dizaynlar.rapSatisIADESI.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SatisModulu.SatisIadeModulu.frmSatisIade.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SatisModulu.SatisIadeModulu.frmSatisIadeListesi.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.Classlar.Dizaynlar.rapSIPARIS.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.Classlar.Dizaynlar.rapSIPARIS_muh.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.frmFaturaNo.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.frmFisNo.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.frmKonsinye_Siparis_Listesi.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.frmSiparisListesi.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.frmYeniSiparis.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.DefolularStokgu.Dizaynlar.rapYAZDIR.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.DefolularStokgu.frmDefoluGiris.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.DefolularStokgu.frmDefolularListesi.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmEtiketRengi.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmIskontoGrubu.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmParaBirimleri.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmStokBirimi.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmStokKarti.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmStokKodListesi.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmStokListesi.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmStokTuru.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmUrunGrubu.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.StokGirisModulu.Dizayn.rapYAZ_StokGiris.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.StokGirisModulu.frmStokGirisi.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.StokGirisModulu.frmStokGirisListesi.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.frmIrsaliyeNO.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.frmServisBeklemeListesi.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.ServisCikis.frmServisCikisListesi.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.ServisGirisi.Dizayn.rapYAZDIR.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.ServisGirisi.frmServisGirisi.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.TS_OlayModulu.Dizaynlar.rapCikisYazdir_.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.TS_OlayModulu.frmOlayFormu.resources
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.exe.licenses
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\bin\Debug\SANSAR2013.exe.manifest
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\bin\Debug\SANSAR2013.application
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\bin\Debug\SANSAR2013.exe
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\bin\Debug\SANSAR2013.pdb
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\bin\Debug\MySql.Data.dll
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TrustInfo.xml
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.exe.manifest
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.application
+E:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.Kullanicilar.frmKullaniciEkle.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\bin\Debug\SANSAR2013.exe.config
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.exe
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.pdb
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\bin\Debug\SANSAR2013.exe.manifest
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\bin\Debug\SANSAR2013.application
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\bin\Debug\SANSAR2013.exe
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\bin\Debug\SANSAR2013.pdb
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\bin\Debug\MySql.Data.dll
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.AnaForm.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.EktralarModulu.frmAksesuarlar.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.EktralarModulu.frmArizaKodlari.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.EktralarModulu.frmDovizKurları.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.EktralarModulu.frmKargolar.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.frmGiris.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.frmMasaUstu.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.frmServerAyarlari.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.Kullanicilar.frmKullaniciEkle.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.MusterıModulu.frmBayiilik_Turu.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.MusterıModulu.frmMusteriKarti.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.MusterıModulu.frmMusteriKodListesi.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.MusterıModulu.frmMusteriListesi.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.Properties.Resources.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.Raporlar.frmMusteriUrunSatisHareketi.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SatisModulu.frmSatisListesi.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SatisModulu.SatisIadeModulu.Dizaynlar.rapSatisIADESI.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SatisModulu.SatisIadeModulu.frmSatisIade.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SatisModulu.SatisIadeModulu.frmSatisIadeListesi.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.Classlar.Dizaynlar.rapSIPARIS.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.Classlar.Dizaynlar.rapSIPARIS_muh.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.frmFaturaNo.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.frmFisNo.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.frmKonsinye_Siparis_Listesi.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.frmSiparisListesi.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.frmYeniSiparis.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.DefolularStokgu.Dizaynlar.rapYAZDIR.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.DefolularStokgu.frmDefoluGiris.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.DefolularStokgu.frmDefolularListesi.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmEtiketRengi.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmIskontoGrubu.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmParaBirimleri.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmStokBirimi.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmStokKarti.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmStokKodListesi.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmStokListesi.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmStokTuru.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmUrunGrubu.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.StokGirisModulu.Dizayn.rapYAZ_StokGiris.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.StokGirisModulu.frmStokGirisi.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.StokGirisModulu.frmStokGirisListesi.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.frmIrsaliyeNO.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.frmServisBeklemeListesi.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.ServisCikis.frmServisCikisListesi.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.ServisGirisi.Dizayn.rapYAZDIR.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.ServisGirisi.frmServisGirisi.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.TS_OlayModulu.Dizaynlar.rapCikisYazdir_.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.TS_OlayModulu.frmOlayFormu.resources
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.exe.licenses
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TrustInfo.xml
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.exe.manifest
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.application
+I:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\GenerateResource.read.2.tlog
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\bin\Debug\SANSAR2013.exe.config
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.exe
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.pdb
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\bin\Debug\SANSAR2013.exe.manifest
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\bin\Debug\SANSAR2013.application
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\bin\Debug\SANSAR2013.exe
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\bin\Debug\SANSAR2013.pdb
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\bin\Debug\MySql.Data.dll
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.AnaForm.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.EktralarModulu.frmAksesuarlar.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.EktralarModulu.frmArizaKodlari.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.EktralarModulu.frmDovizKurları.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.EktralarModulu.frmKargolar.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.frmGiris.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.frmMasaUstu.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.frmServerAyarlari.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.Kullanicilar.frmKullaniciEkle.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.MusterıModulu.frmBayiilik_Turu.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.MusterıModulu.frmMusteriKarti.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.MusterıModulu.frmMusteriKodListesi.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.MusterıModulu.frmMusteriListesi.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.Properties.Resources.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.Raporlar.frmMusteriUrunSatisHareketi.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SatisModulu.frmSatisListesi.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SatisModulu.SatisIadeModulu.Dizaynlar.rapSatisIADESI.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SatisModulu.SatisIadeModulu.frmSatisIade.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SatisModulu.SatisIadeModulu.frmSatisIadeListesi.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.Classlar.Dizaynlar.rapSIPARIS.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.Classlar.Dizaynlar.rapSIPARIS_muh.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.frmFaturaNo.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.frmFisNo.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.frmKonsinye_Siparis_Listesi.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.frmSiparisListesi.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.frmYeniSiparis.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.DefolularStokgu.Dizaynlar.rapYAZDIR.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.DefolularStokgu.frmDefoluGiris.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.DefolularStokgu.frmDefolularListesi.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmEtiketRengi.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmIskontoGrubu.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmParaBirimleri.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmStokBirimi.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmStokKarti.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmStokKodListesi.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmStokListesi.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmStokTuru.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmUrunGrubu.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.StokGirisModulu.Dizayn.rapYAZ_StokGiris.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.StokGirisModulu.frmStokGirisi.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.StokGirisModulu.frmStokGirisListesi.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.frmIrsaliyeNO.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.frmServisBeklemeListesi.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.ServisCikis.frmServisCikisListesi.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.ServisGirisi.Dizayn.rapYAZDIR.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.ServisGirisi.frmServisGirisi.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.TS_OlayModulu.Dizaynlar.rapCikisYazdir_.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.TS_OlayModulu.frmOlayFormu.resources
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\GenerateResource.read.2.tlog
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.exe.licenses
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TrustInfo.xml
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.exe.manifest
+J:\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.application
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\bin\Debug\SANSAR2013.exe.config
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.exe
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.pdb
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\bin\Debug\SANSAR2013.exe.manifest
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\bin\Debug\SANSAR2013.application
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\bin\Debug\SANSAR2013.exe
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\bin\Debug\SANSAR2013.pdb
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.AnaForm.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.EktralarModulu.frmAksesuarlar.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.EktralarModulu.frmArizaKodlari.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.EktralarModulu.frmDovizKurları.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.EktralarModulu.frmKargolar.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.frmGiris.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.frmMasaUstu.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.frmServerAyarlari.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.Kullanicilar.frmKullaniciEkle.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.MusterıModulu.frmBayiilik_Turu.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.MusterıModulu.frmMusteriKarti.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.MusterıModulu.frmMusteriKodListesi.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.MusterıModulu.frmMusteriListesi.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.Properties.Resources.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.Raporlar.frmMusteriUrunSatisHareketi.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SatisModulu.frmSatisListesi.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SatisModulu.SatisIadeModulu.Dizaynlar.rapSatisIADESI.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SatisModulu.SatisIadeModulu.frmSatisIade.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SatisModulu.SatisIadeModulu.frmSatisIadeListesi.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.Classlar.Dizaynlar.rapSIPARIS.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.Classlar.Dizaynlar.rapSIPARIS_muh.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.frmFaturaNo.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.frmFisNo.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.frmKonsinye_Siparis_Listesi.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.frmSiparisListesi.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.frmYeniSiparis.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.DefolularStokgu.Dizaynlar.rapYAZDIR.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.DefolularStokgu.frmDefoluGiris.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.DefolularStokgu.frmDefolularListesi.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmEtiketRengi.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmIskontoGrubu.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmParaBirimleri.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmStokBirimi.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmStokKarti.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmStokKodListesi.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmStokListesi.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmStokTuru.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmUrunGrubu.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.StokGirisModulu.Dizayn.rapYAZ_StokGiris.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.StokGirisModulu.frmStokGirisi.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.StokGirisModulu.frmStokGirisListesi.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.frmIrsaliyeNO.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.frmServisBeklemeListesi.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.ServisCikis.frmServisCikisListesi.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.ServisGirisi.Dizayn.rapYAZDIR.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.ServisGirisi.frmServisGirisi.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.TS_OlayModulu.Dizaynlar.rapCikisYazdir_.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.TS_OlayModulu.frmOlayFormu.resources
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\GenerateResource.read.2.tlog
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.exe.licenses
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TrustInfo.xml
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.exe.manifest
+C:\Documents and Settings\ziya\Desktop\Stok_Takip_ve_Servis_Otomasyonu\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.application
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\bin\Debug\SANSAR2013.exe.config
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.exe
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.pdb
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\bin\Debug\SANSAR2013.exe.manifest
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\bin\Debug\SANSAR2013.application
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\bin\Debug\SANSAR2013.exe
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\bin\Debug\SANSAR2013.pdb
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\bin\Debug\MySql.Data.dll
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.AnaForm.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.EktralarModulu.frmAksesuarlar.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.EktralarModulu.frmArizaKodlari.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.EktralarModulu.frmDovizKurları.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.EktralarModulu.frmKargolar.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.frmGiris.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.frmMasaUstu.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.frmServerAyarlari.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.Kullanicilar.frmKullaniciEkle.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.MusterıModulu.frmBayiilik_Turu.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.MusterıModulu.frmMusteriKarti.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.MusterıModulu.frmMusteriKodListesi.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.MusterıModulu.frmMusteriListesi.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.Properties.Resources.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.Raporlar.frmMusteriUrunSatisHareketi.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SatisModulu.frmSatisListesi.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SatisModulu.SatisIadeModulu.Dizaynlar.rapSatisIADESI.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SatisModulu.SatisIadeModulu.frmSatisIade.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SatisModulu.SatisIadeModulu.frmSatisIadeListesi.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.Classlar.Dizaynlar.rapSIPARIS.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.Classlar.Dizaynlar.rapSIPARIS_muh.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.frmFaturaNo.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.frmFisNo.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.frmKonsinye_Siparis_Listesi.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.frmSiparisListesi.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.frmYeniSiparis.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.DefolularStokgu.Dizaynlar.rapYAZDIR.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.DefolularStokgu.frmDefoluGiris.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.DefolularStokgu.frmDefolularListesi.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmEtiketRengi.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmIskontoGrubu.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmParaBirimleri.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmStokBirimi.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmStokKarti.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmStokKodListesi.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmStokListesi.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmStokTuru.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmUrunGrubu.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.StokGirisModulu.Dizayn.rapYAZ_StokGiris.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.StokGirisModulu.frmStokGirisi.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.StokGirisModulu.frmStokGirisListesi.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.frmIrsaliyeNO.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.frmServisBeklemeListesi.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.ServisCikis.frmServisCikisListesi.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.ServisGirisi.Dizayn.rapYAZDIR.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.ServisGirisi.frmServisGirisi.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.TS_OlayModulu.Dizaynlar.rapCikisYazdir_.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.TS_OlayModulu.frmOlayFormu.resources
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\GenerateResource.read.2.tlog
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.exe.licenses
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TrustInfo.xml
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.exe.manifest
+C:\Users\zii\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.application
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\bin\Debug\SANSAR2013.exe.config
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.exe
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.pdb
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\bin\Debug\SANSAR2013.exe.manifest
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\bin\Debug\SANSAR2013.application
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\bin\Debug\SANSAR2013.exe
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\bin\Debug\SANSAR2013.pdb
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.AnaForm.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.EktralarModulu.frmAksesuarlar.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.EktralarModulu.frmArizaKodlari.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.EktralarModulu.frmDovizKurları.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.EktralarModulu.frmKargolar.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.frmGiris.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.frmMasaUstu.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.frmServerAyarlari.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.Kullanicilar.frmKullaniciEkle.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.MusterıModulu.frmBayiilik_Turu.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.MusterıModulu.frmMusteriKarti.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.MusterıModulu.frmMusteriKodListesi.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.MusterıModulu.frmMusteriListesi.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.Properties.Resources.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.Raporlar.frmMusteriUrunSatisHareketi.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SatisModulu.frmSatisListesi.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SatisModulu.SatisIadeModulu.Dizaynlar.rapSatisIADESI.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SatisModulu.SatisIadeModulu.frmSatisIade.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SatisModulu.SatisIadeModulu.frmSatisIadeListesi.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.Classlar.Dizaynlar.rapSIPARIS.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.Classlar.Dizaynlar.rapSIPARIS_muh.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.frmFaturaNo.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.frmFisNo.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.frmKonsinye_Siparis_Listesi.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.frmSiparisListesi.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.frmYeniSiparis.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.DefolularStokgu.Dizaynlar.rapYAZDIR.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.DefolularStokgu.frmDefoluGiris.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.DefolularStokgu.frmDefolularListesi.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmEtiketRengi.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmIskontoGrubu.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmParaBirimleri.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmStokBirimi.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmStokKarti.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmStokKodListesi.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmStokListesi.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmStokTuru.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmUrunGrubu.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.StokGirisModulu.Dizayn.rapYAZ_StokGiris.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.StokGirisModulu.frmStokGirisi.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.StokGirisModulu.frmStokGirisListesi.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.frmIrsaliyeNO.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.frmServisBeklemeListesi.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.ServisCikis.frmServisCikisListesi.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.ServisGirisi.Dizayn.rapYAZDIR.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.ServisGirisi.frmServisGirisi.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.TS_OlayModulu.Dizaynlar.rapCikisYazdir_.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.TS_OlayModulu.frmOlayFormu.resources
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\GenerateResource.read.2.tlog
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.exe.licenses
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TrustInfo.xml
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.exe.manifest
+C:\Documents and Settings\ziya\Desktop\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.application
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\bin\Debug\SANSAR2013.exe.config
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.csprojResolveAssemblyReference.cache
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.AnaForm.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.EktralarModulu.frmAksesuarlar.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.EktralarModulu.frmArizaKodlari.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.EktralarModulu.frmDovizKurları.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.EktralarModulu.frmKargolar.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.frmGiris.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.frmMasaUstu.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.frmServerAyarlari.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.Kullanicilar.frmKullaniciEkle.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.MusterıModulu.frmBayiilik_Turu.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.MusterıModulu.frmMusteriKarti.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.MusterıModulu.frmMusteriKodListesi.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.MusterıModulu.frmMusteriListesi.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.Properties.Resources.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.Raporlar.frmMusteriUrunSatisHareketi.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SatisModulu.frmSatisListesi.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SatisModulu.SatisIadeModulu.Dizaynlar.rapSatisIADESI.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SatisModulu.SatisIadeModulu.frmSatisIade.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SatisModulu.SatisIadeModulu.frmSatisIadeListesi.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.Classlar.Dizaynlar.rapSIPARIS.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.Classlar.Dizaynlar.rapSIPARIS_muh.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.frmFaturaNo.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.frmFisNo.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.frmKonsinye_Siparis_Listesi.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.frmSiparisListesi.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.SiparisModulu.frmYeniSiparis.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.DefolularStokgu.Dizaynlar.rapYAZDIR.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.DefolularStokgu.frmDefoluGiris.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.DefolularStokgu.frmDefolularListesi.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmEtiketRengi.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmIskontoGrubu.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmParaBirimleri.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmStokBirimi.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmStokKarti.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmStokKodListesi.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmStokListesi.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmStokTuru.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.frmUrunGrubu.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.StokGirisModulu.Dizayn.rapYAZ_StokGiris.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.StokGirisModulu.frmStokGirisi.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.StokModulu.StokGirisModulu.frmStokGirisListesi.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.frmIrsaliyeNO.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.frmServisBeklemeListesi.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.ServisCikis.frmServisCikisListesi.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.ServisGirisi.Dizayn.rapYAZDIR.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.ServisGirisi.frmServisGirisi.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.TS_OlayModulu.Dizaynlar.rapCikisYazdir_.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.TeknikServisModulu.TS_OlayModulu.frmOlayFormu.resources
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.csproj.GenerateResource.Cache
+D:\ziya_özel\FLASH_DİSKİM_\son_yeni\SANSAR2013\SANSAR2013\obj\x86\Debug\SANSAR2013.exe.licenses

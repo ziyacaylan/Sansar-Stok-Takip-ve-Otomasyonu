@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="SANSAR2013.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <connectionStrings>
+        <add name="SANSAR2013.Properties.Settings.sansarConnectionString"
+            connectionString="server=127.0.0.1;User Id=root;Persist Security Info=True;database=sansar"
+            providerName="MySql.Data.MySqlClient" />
+    </connectionStrings>
+    <userSettings>
+        <SANSAR2013.Properties.Settings>
+            <setting name="KullaniciAdi" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="Parola" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="Animsa" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="ServerIdAdresi" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="VeritabaniAdi" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="VeritabaniKullaniciAdi" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="VeritabaniSifresi" serializeAs="String">
+                <value />
+            </setting>
+        </SANSAR2013.Properties.Settings>
+    </userSettings>
+</configuration>

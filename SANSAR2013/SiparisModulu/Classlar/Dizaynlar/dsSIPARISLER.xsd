@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsSIPARISLER" targetNamespace="http://tempuri.org/dsSIPARISLER.xsd" xmlns:mstns="http://tempuri.org/dsSIPARISLER.xsd" xmlns="http://tempuri.org/dsSIPARISLER.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsSIPARISLER" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsSIPARISLER" msprop:Generator_UserDSName="dsSIPARISLER">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tbl_SIPARIS" msprop:Generator_TableClassName="tbl_SIPARISDataTable" msprop:Generator_TableVarName="tabletbl_SIPARIS" msprop:Generator_TablePropName="tbl_SIPARIS" msprop:Generator_RowDeletingName="tbl_SIPARISRowDeleting" msprop:Generator_UserTableName="tbl_SIPARIS" msprop:Generator_RowChangingName="tbl_SIPARISRowChanging" msprop:Generator_RowEvHandlerName="tbl_SIPARISRowChangeEventHandler" msprop:Generator_RowDeletedName="tbl_SIPARISRowDeleted" msprop:Generator_RowEvArgName="tbl_SIPARISRowChangeEvent" msprop:Generator_RowChangedName="tbl_SIPARISRowChanged" msprop:Generator_RowClassName="tbl_SIPARISRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TARIH" msprop:Generator_ColumnVarNameInTable="columnTARIH" msprop:Generator_ColumnPropNameInRow="TARIH" msprop:Generator_ColumnPropNameInTable="TARIHColumn" msprop:Generator_UserColumnName="TARIH" type="xs:string" minOccurs="0" />
+              <xs:element name="SIPARIS_NO" msprop:Generator_ColumnVarNameInTable="columnSIPARIS_NO" msprop:Generator_ColumnPropNameInRow="SIPARIS_NO" msprop:Generator_ColumnPropNameInTable="SIPARIS_NOColumn" msprop:Generator_UserColumnName="SIPARIS_NO" type="xs:string" minOccurs="0" />
+              <xs:element name="FIS_NO" msprop:Generator_ColumnVarNameInTable="columnFIS_NO" msprop:Generator_ColumnPropNameInRow="FIS_NO" msprop:Generator_ColumnPropNameInTable="FIS_NOColumn" msprop:Generator_UserColumnName="FIS_NO" type="xs:string" minOccurs="0" />
+              <xs:element name="FATURA_NO" msprop:Generator_ColumnVarNameInTable="columnFATURA_NO" msprop:Generator_ColumnPropNameInRow="FATURA_NO" msprop:Generator_ColumnPropNameInTable="FATURA_NOColumn" msprop:Generator_UserColumnName="FATURA_NO" type="xs:string" minOccurs="0" />
+              <xs:element name="MUSTERI_KODU" msprop:Generator_ColumnVarNameInTable="columnMUSTERI_KODU" msprop:Generator_ColumnPropNameInRow="MUSTERI_KODU" msprop:Generator_ColumnPropNameInTable="MUSTERI_KODUColumn" msprop:Generator_UserColumnName="MUSTERI_KODU" type="xs:string" minOccurs="0" />
+              <xs:element name="FIRMA_ADI" msprop:Generator_ColumnVarNameInTable="columnFIRMA_ADI" msprop:Generator_ColumnPropNameInRow="FIRMA_ADI" msprop:Generator_ColumnPropNameInTable="FIRMA_ADIColumn" msprop:Generator_UserColumnName="FIRMA_ADI" type="xs:string" minOccurs="0" />
+              <xs:element name="ADRES_1" msprop:Generator_ColumnVarNameInTable="columnADRES_1" msprop:Generator_ColumnPropNameInRow="ADRES_1" msprop:Generator_ColumnPropNameInTable="ADRES_1Column" msprop:Generator_UserColumnName="ADRES_1" type="xs:string" minOccurs="0" />
+              <xs:element name="ILCE_1" msprop:Generator_ColumnVarNameInTable="columnILCE_1" msprop:Generator_ColumnPropNameInRow="ILCE_1" msprop:Generator_ColumnPropNameInTable="ILCE_1Column" msprop:Generator_UserColumnName="ILCE_1" type="xs:string" minOccurs="0" />
+              <xs:element name="IL_1" msprop:Generator_ColumnVarNameInTable="columnIL_1" msprop:Generator_ColumnPropNameInRow="IL_1" msprop:Generator_ColumnPropNameInTable="IL_1Column" msprop:Generator_UserColumnName="IL_1" type="xs:string" minOccurs="0" />
+              <xs:element name="TEL_1" msprop:Generator_ColumnVarNameInTable="columnTEL_1" msprop:Generator_ColumnPropNameInRow="TEL_1" msprop:Generator_ColumnPropNameInTable="TEL_1Column" msprop:Generator_UserColumnName="TEL_1" type="xs:string" minOccurs="0" />
+              <xs:element name="VERGI_DAIRESI" msprop:Generator_ColumnVarNameInTable="columnVERGI_DAIRESI" msprop:Generator_ColumnPropNameInRow="VERGI_DAIRESI" msprop:Generator_ColumnPropNameInTable="VERGI_DAIRESIColumn" msprop:Generator_UserColumnName="VERGI_DAIRESI" type="xs:string" minOccurs="0" />
+              <xs:element name="VERGI_NO" msprop:Generator_ColumnVarNameInTable="columnVERGI_NO" msprop:Generator_ColumnPropNameInRow="VERGI_NO" msprop:Generator_ColumnPropNameInTable="VERGI_NOColumn" msprop:Generator_UserColumnName="VERGI_NO" type="xs:string" minOccurs="0" />
+              <xs:element name="SIPARIS_VEREN" msprop:Generator_ColumnVarNameInTable="columnSIPARIS_VEREN" msprop:Generator_ColumnPropNameInRow="SIPARIS_VEREN" msprop:Generator_ColumnPropNameInTable="SIPARIS_VERENColumn" msprop:Generator_UserColumnName="SIPARIS_VEREN" type="xs:string" minOccurs="0" />
+              <xs:element name="SIPARIS_GIREN" msprop:Generator_ColumnVarNameInTable="columnSIPARIS_GIREN" msprop:Generator_ColumnPropNameInRow="SIPARIS_GIREN" msprop:Generator_ColumnPropNameInTable="SIPARIS_GIRENColumn" msprop:Generator_UserColumnName="SIPARIS_GIREN" type="xs:string" minOccurs="0" />
+              <xs:element name="STOK_ONAY" msprop:Generator_ColumnVarNameInTable="columnSTOK_ONAY" msprop:Generator_ColumnPropNameInRow="STOK_ONAY" msprop:Generator_ColumnPropNameInTable="STOK_ONAYColumn" msprop:Generator_UserColumnName="STOK_ONAY" type="xs:string" minOccurs="0" />
+              <xs:element name="SATIS_ONAY" msprop:Generator_ColumnVarNameInTable="columnSATIS_ONAY" msprop:Generator_ColumnPropNameInRow="SATIS_ONAY" msprop:Generator_ColumnPropNameInTable="SATIS_ONAYColumn" msprop:Generator_UserColumnName="SATIS_ONAY" type="xs:string" minOccurs="0" />
+              <xs:element name="TESLIM_SEKLI" msprop:Generator_ColumnVarNameInTable="columnTESLIM_SEKLI" msprop:Generator_ColumnPropNameInRow="TESLIM_SEKLI" msprop:Generator_ColumnPropNameInTable="TESLIM_SEKLIColumn" msprop:Generator_UserColumnName="TESLIM_SEKLI" type="xs:string" minOccurs="0" />
+              <xs:element name="ACIKLAMA" msprop:Generator_ColumnVarNameInTable="columnACIKLAMA" msprop:Generator_ColumnPropNameInRow="ACIKLAMA" msprop:Generator_ColumnPropNameInTable="ACIKLAMAColumn" msprop:Generator_UserColumnName="ACIKLAMA" type="xs:string" minOccurs="0" />
+              <xs:element name="STOK_KODU" msprop:Generator_ColumnVarNameInTable="columnSTOK_KODU" msprop:Generator_ColumnPropNameInRow="STOK_KODU" msprop:Generator_ColumnPropNameInTable="STOK_KODUColumn" msprop:Generator_UserColumnName="STOK_KODU" type="xs:string" minOccurs="0" />
+              <xs:element name="MODEL_NO" msprop:Generator_ColumnVarNameInTable="columnMODEL_NO" msprop:Generator_ColumnPropNameInRow="MODEL_NO" msprop:Generator_ColumnPropNameInTable="MODEL_NOColumn" msprop:Generator_UserColumnName="MODEL_NO" type="xs:string" minOccurs="0" />
+              <xs:element name="MIKTAR" msprop:Generator_ColumnVarNameInTable="columnMIKTAR" msprop:Generator_ColumnPropNameInRow="MIKTAR" msprop:Generator_ColumnPropNameInTable="MIKTARColumn" msprop:Generator_UserColumnName="MIKTAR" type="xs:string" minOccurs="0" />
+              <xs:element name="STOK_BIRIMI" msprop:Generator_ColumnVarNameInTable="columnSTOK_BIRIMI" msprop:Generator_ColumnPropNameInRow="STOK_BIRIMI" msprop:Generator_ColumnPropNameInTable="STOK_BIRIMIColumn" msprop:Generator_UserColumnName="STOK_BIRIMI" type="xs:string" minOccurs="0" />
+              <xs:element name="BIRIM_FIYAT" msprop:Generator_ColumnVarNameInTable="columnBIRIM_FIYAT" msprop:Generator_ColumnPropNameInRow="BIRIM_FIYAT" msprop:Generator_ColumnPropNameInTable="BIRIM_FIYATColumn" msprop:Generator_UserColumnName="BIRIM_FIYAT" type="xs:string" minOccurs="0" />
+              <xs:element name="PARA_BIRIMI" msprop:Generator_ColumnVarNameInTable="columnPARA_BIRIMI" msprop:Generator_ColumnPropNameInRow="PARA_BIRIMI" msprop:Generator_ColumnPropNameInTable="PARA_BIRIMIColumn" msprop:Generator_UserColumnName="PARA_BIRIMI" type="xs:string" minOccurs="0" />
+              <xs:element name="ISK_1" msprop:Generator_ColumnVarNameInTable="columnISK_1" msprop:Generator_ColumnPropNameInRow="ISK_1" msprop:Generator_ColumnPropNameInTable="ISK_1Column" msprop:Generator_UserColumnName="ISK_1" type="xs:string" minOccurs="0" />
+              <xs:element name="ISK_2" msprop:Generator_ColumnVarNameInTable="columnISK_2" msprop:Generator_ColumnPropNameInRow="ISK_2" msprop:Generator_ColumnPropNameInTable="ISK_2Column" msprop:Generator_UserColumnName="ISK_2" type="xs:string" minOccurs="0" />
+              <xs:element name="ISK_3" msprop:Generator_ColumnVarNameInTable="columnISK_3" msprop:Generator_ColumnPropNameInRow="ISK_3" msprop:Generator_ColumnPropNameInTable="ISK_3Column" msprop:Generator_UserColumnName="ISK_3" type="xs:string" minOccurs="0" />
+              <xs:element name="KDV" msprop:Generator_ColumnVarNameInTable="columnKDV" msprop:Generator_ColumnPropNameInRow="KDV" msprop:Generator_ColumnPropNameInTable="KDVColumn" msprop:Generator_UserColumnName="KDV" type="xs:string" minOccurs="0" />
+              <xs:element name="TOPLAM" msprop:Generator_ColumnVarNameInTable="columnTOPLAM" msprop:Generator_ColumnPropNameInRow="TOPLAM" msprop:Generator_ColumnPropNameInTable="TOPLAMColumn" msprop:Generator_UserColumnName="TOPLAM" type="xs:string" minOccurs="0" />
+              <xs:element name="ISK_BIR_FIYAT_USD" msprop:Generator_ColumnVarNameInTable="columnISK_BIR_FIYAT_USD" msprop:Generator_ColumnPropNameInRow="ISK_BIR_FIYAT_USD" msprop:Generator_ColumnPropNameInTable="ISK_BIR_FIYAT_USDColumn" msprop:Generator_UserColumnName="ISK_BIR_FIYAT_USD" type="xs:string" minOccurs="0" />
+              <xs:element name="ISK_BIR_FIYAT_TL" msprop:Generator_ColumnVarNameInTable="columnISK_BIR_FIYAT_TL" msprop:Generator_ColumnPropNameInRow="ISK_BIR_FIYAT_TL" msprop:Generator_ColumnPropNameInTable="ISK_BIR_FIYAT_TLColumn" msprop:Generator_UserColumnName="ISK_BIR_FIYAT_TL" type="xs:string" minOccurs="0" />
+              <xs:element name="DOVIZ_SATIS" msprop:Generator_ColumnVarNameInTable="columnDOVIZ_SATIS" msprop:Generator_ColumnPropNameInRow="DOVIZ_SATIS" msprop:Generator_ColumnPropNameInTable="DOVIZ_SATISColumn" msprop:Generator_UserColumnName="DOVIZ_SATIS" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
