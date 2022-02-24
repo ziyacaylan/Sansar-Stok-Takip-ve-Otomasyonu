@@ -1,6 +1,6 @@
 # Sansar-Stok-Takip-ve-Otomasyonu
 İş otomasyonu programı
-C# ile yazmıştım. Basit bir ön muhasebe ve iş takip otomasyonu paket programıdır. Stok takibi yapılabilir, depo ürün girişi ve çıkışı yapılabilir, servis ürün giriş çıkışı yapılabilir ve takibi yapılabilir bir programdır.
+C# ile yazmıştım. Basit bir iş takip otomasyonu paket programıdır. Stok takibi yapılabilir, depo ürün girişi ve çıkışı yapılabilir, servis ürün giriş çıkışı yapılabilir ve takibi yapılabilir ve sipariş fişi yada depo çıkış fişi düzenlenebilir, firma içi depolardan birinde CRM devreye girene kadar kullandığımız bir programdır.
 
 I wrote it in C#. It is a simple pre-accounting and business tracking automation package program. It is a program that can follow stock, store product entry and exit, service product entry and exit, and can be tracked.![1](https://user-images.githubusercontent.com/83708039/150837939-f06c89ea-f8cd-4642-95c8-52333bc42c80.jpg)
 ![2](https://user-images.githubusercontent.com/83708039/150837944-674d939f-344d-4475-9101-09e3ee6e700f.jpg)
